@@ -143,8 +143,6 @@ An interactive application designed for exploring Islamic spiritual content.
 - Additional books and videos
 - User-friendly interactive interface
 
-**Repository:**  
-https://github.com/junaid6078/Naat_Book_Application
 
 **Stack:** `Flutter` `Database` `UI/UX`
 
